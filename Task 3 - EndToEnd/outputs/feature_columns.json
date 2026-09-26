@@ -1,0 +1,14 @@
+[
+  "Gender",
+  "Married",
+  "Dependents",
+  "Education",
+  "Self_Employed",
+  "LogTotalIncome",
+  "LogLoanAmount",
+  "Loan_Amount_Term",
+  "Credit_History",
+  "Property_Area",
+  "DebtToIncomeRatio",
+  "HasCoapplicant"
+]
