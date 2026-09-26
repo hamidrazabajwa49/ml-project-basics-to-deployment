@@ -1,0 +1,801 @@
+study_hours,attendance_percent,previous_scores,sleep_hours,extracurricular,parental_education,internet_access,final_score
+4.57,100.0,66.1,8.43,No,High School,Yes,73.5
+7.22,100.0,60.7,7.2,Yes,High School,Yes,76.6
+6.95,93.4,59.0,5.55,No,Bachelors,Yes,78.3
+3.48,80.4,74.0,8.1,Yes,Masters,Yes,65.8
+3.9,89.9,74.4,6.57,Yes,Masters,No,74.0
+3.45,56.8,50.3,7.83,Yes,High School,Yes,49.7
+5.64,85.3,86.0,6.07,No,Masters,Yes,82.9
+4.39,66.0,47.8,7.27,No,Masters,Yes,56.0
+5.99,66.1,59.9,4.66,No,Bachelors,Yes,57.8
+0.81,73.5,70.8,7.29,Yes,Bachelors,Yes,49.6
+7.63,77.8,89.7,4.8,Yes,Bachelors,No,76.6
+4.31,88.9,58.8,7.01,No,High School,Yes,67.4
+5.86,90.4,68.3,3.47,Yes,High School,Yes,62.7
+4.23,85.2,83.6,6.71,No,Bachelors,Yes,82.4
+3.74,70.7,73.4,7.75,No,Bachelors,Yes,65.7
+5.43,90.1,80.9,7.43,Yes,Bachelors,Yes,73.3
+6.15,80.5,79.6,8.37,Yes,Bachelors,Yes,89.1
+4.09,96.2,67.9,5.39,Yes,Masters,Yes,70.8
+4.19,71.0,73.5,8.86,Yes,High School,No,70.3
+5.87,48.8,77.8,8.91,No,High School,Yes,51.2
+2.76,76.3,63.6,5.22,No,PhD,Yes,73.0
+1.47,100.0,88.0,5.75,No,Bachelors,Yes,71.5
+5.29,87.6,34.2,6.05,Yes,Bachelors,Yes,61.6
+3.16,79.7,50.2,6.77,No,Bachelors,Yes,59.9
+0.66,92.6,85.7,7.04,No,Bachelors,Yes,61.0
+2.87,88.0,70.4,3.56,No,Bachelors,Yes,67.6
+3.56,87.5,54.4,7.58,Yes,Bachelors,Yes,67.5
+2.11,75.8,69.7,6.46,No,Masters,Yes,64.0
+1.52,82.9,80.3,5.46,No,High School,Yes,58.1
+4.57,84.4,55.6,8.04,Yes,PhD,Yes,64.8
+6.29,74.3,75.6,6.34,Yes,High School,Yes,73.9
+4.03,68.6,62.2,8.29,Yes,Bachelors,Yes,68.6
+3.01,83.7,62.3,7.49,Yes,Masters,Yes,67.8
+5.27,93.6,63.0,6.38,Yes,High School,Yes,69.7
+5.93,89.8,80.7,8.33,No,Bachelors,Yes,77.0
+3.9,87.9,47.2,7.85,No,Bachelors,Yes,66.4
+5.59,88.1,58.5,6.13,No,Bachelors,Yes,76.3
+6.59,100.0,74.0,4.68,Yes,Masters,No,75.8
+4.09,85.1,45.8,6.08,Yes,High School,Yes,55.0
+2.87,94.5,40.3,7.6,No,High School,Yes,70.1
+5.2,100.0,72.6,6.48,No,Masters,Yes,70.0
+5.0,82.6,64.1,9.11,Yes,PhD,Yes,76.6
+6.7,85.2,61.8,7.14,Yes,High School,Yes,72.0
+1.93,94.5,66.2,7.05,Yes,Bachelors,Yes,72.8
+3.18,100.0,49.5,7.32,No,High School,Yes,61.6
+2.82,85.8,100.0,5.64,No,PhD,Yes,68.1
+1.03,86.4,49.3,6.63,No,PhD,Yes,51.2
+4.75,83.1,57.5,5.93,No,Bachelors,Yes,65.2
+5.56,67.5,42.7,3.72,No,Bachelors,Yes,55.1
+3.02,95.4,57.8,4.46,Yes,Bachelors,No,55.2
+7.27,79.0,86.9,7.76,Yes,Bachelors,Yes,80.1
+6.14,61.4,64.3,6.21,No,Masters,Yes,58.7
+5.75,80.3,73.0,6.63,No,Masters,Yes,66.6
+5.3,61.3,56.8,4.86,No,Masters,Yes,57.4
+6.41,69.9,91.2,6.02,Yes,Masters,Yes,76.2
+1.84,82.3,66.5,7.82,Yes,High School,Yes,60.6
+5.73,71.0,45.3,6.92,Yes,High School,No,49.4
+5.71,94.9,75.6,6.11,No,Bachelors,Yes,84.5
+0.96,64.4,58.5,8.8,Yes,Bachelors,No,40.6
+5.19,85.2,73.2,6.71,No,PhD,Yes,79.8
+4.0,88.8,66.1,6.33,Yes,High School,Yes,69.9
+6.06,99.6,68.0,8.29,No,Bachelors,Yes,86.9
+3.62,93.2,66.1,4.52,No,Masters,Yes,75.0
+4.46,84.9,50.5,7.52,No,Bachelors,Yes,57.2
+5.19,83.1,41.5,5.33,No,High School,Yes,59.9
+2.75,81.4,78.7,5.76,No,High School,Yes,67.6
+5.7,95.8,62.0,5.9,No,PhD,Yes,80.1
+4.29,74.2,68.3,6.96,Yes,Masters,Yes,71.9
+5.48,88.4,57.1,6.93,No,Masters,Yes,68.2
+3.46,81.0,33.7,7.19,Yes,High School,Yes,60.8
+6.67,85.0,44.9,7.07,Yes,Masters,No,65.5
+5.71,79.0,85.0,8.63,Yes,High School,Yes,74.9
+4.14,100.0,52.3,9.01,Yes,High School,Yes,70.2
+5.76,74.2,58.3,7.72,Yes,Bachelors,Yes,66.4
+7.02,85.2,42.0,7.78,No,Bachelors,Yes,65.0
+8.08,85.4,56.1,6.3,Yes,Bachelors,Yes,76.3
+1.35,89.4,58.4,5.35,Yes,PhD,No,70.5
+6.27,87.5,60.7,7.57,No,Bachelors,No,69.5
+5.43,87.2,62.9,6.84,Yes,High School,Yes,70.5
+4.31,93.9,54.5,7.92,Yes,High School,No,60.2
+2.49,64.1,55.4,4.4,No,Masters,Yes,55.1
+7.01,82.3,63.8,10.0,No,Masters,No,68.0
+1.98,67.3,68.8,5.13,No,Masters,Yes,60.5
+5.63,84.9,61.9,6.84,No,Bachelors,Yes,71.5
+7.1,68.0,90.1,8.09,No,High School,Yes,78.0
+1.3,70.6,67.1,4.98,No,Bachelors,No,51.9
+3.89,81.4,66.4,6.07,Yes,High School,Yes,63.7
+1.88,98.9,54.1,4.15,No,High School,No,55.2
+4.99,89.1,79.4,4.92,No,High School,Yes,73.8
+7.53,85.7,48.6,4.26,No,Bachelors,No,66.0
+8.55,99.0,39.7,6.93,No,High School,No,67.6
+0.94,70.8,49.3,7.18,No,Bachelors,No,49.9
+3.35,57.1,73.2,6.38,No,PhD,Yes,61.6
+5.91,77.1,46.8,8.45,Yes,High School,Yes,71.7
+7.66,78.8,83.4,8.62,Yes,High School,Yes,81.4
+5.34,97.0,63.6,6.79,Yes,High School,Yes,79.3
+3.01,100.0,41.2,6.51,Yes,High School,Yes,61.3
+5.09,66.2,60.5,6.44,No,Bachelors,Yes,62.4
+4.47,100.0,90.7,6.2,Yes,Bachelors,Yes,76.2
+4.09,100.0,51.0,8.51,No,Bachelors,Yes,71.9
+3.03,92.2,44.3,7.11,Yes,PhD,Yes,66.4
+5.27,86.6,71.6,6.36,No,Bachelors,Yes,72.5
+5.12,100.0,83.5,6.5,Yes,Bachelors,Yes,83.1
+4.31,83.1,79.2,7.51,No,Masters,No,70.2
+4.06,76.5,59.0,6.28,No,Masters,Yes,59.4
+1.93,83.8,66.7,7.21,No,Bachelors,Yes,56.1
+3.53,65.7,68.8,6.75,No,Bachelors,Yes,64.6
+6.91,87.8,81.5,8.57,Yes,Bachelors,Yes,84.9
+4.12,80.9,96.2,8.32,No,Bachelors,Yes,85.5
+1.62,86.1,62.3,4.94,Yes,Bachelors,Yes,69.9
+7.17,86.5,83.4,6.59,No,Bachelors,No,80.4
+5.56,69.5,58.8,7.73,Yes,High School,No,63.4
+8.72,98.0,72.8,6.21,Yes,Bachelors,Yes,89.0
+4.63,70.0,49.9,7.86,No,High School,Yes,59.2
+3.58,92.8,52.5,7.24,Yes,High School,No,55.7
+1.6,63.1,70.2,7.58,No,High School,No,36.5
+7.15,86.6,50.5,6.72,No,Masters,Yes,76.7
+9.64,72.3,77.2,7.2,No,High School,Yes,83.4
+2.86,82.7,55.7,7.49,Yes,PhD,Yes,65.7
+3.21,74.4,65.1,4.88,Yes,High School,Yes,59.9
+5.69,56.0,62.7,5.6,No,Bachelors,Yes,66.1
+2.84,68.8,58.9,5.47,Yes,High School,Yes,60.1
+3.96,83.0,65.9,9.01,No,Bachelors,Yes,69.9
+3.8,89.7,80.1,7.2,No,Masters,Yes,73.7
+4.88,64.6,100.0,7.29,No,Bachelors,Yes,78.3
+6.69,56.7,46.1,7.03,No,Bachelors,Yes,64.3
+4.54,71.7,68.4,6.13,No,PhD,Yes,79.3
+6.34,79.6,61.3,5.83,No,Bachelors,No,59.5
+3.66,74.6,50.2,7.91,Yes,Bachelors,No,58.6
+5.16,72.5,68.2,6.32,No,High School,Yes,60.4
+0.22,92.4,50.7,8.87,Yes,Masters,Yes,58.0
+1.6,93.8,62.8,7.06,Yes,Bachelors,Yes,76.2
+6.09,91.1,82.5,6.93,No,High School,Yes,75.6
+3.32,70.9,33.6,6.52,Yes,Bachelors,Yes,51.7
+5.66,83.1,67.6,6.71,No,High School,Yes,66.4
+5.58,79.9,70.6,6.85,No,Masters,No,72.8
+7.14,65.1,49.6,8.8,Yes,Masters,Yes,68.1
+6.12,92.8,71.8,9.86,Yes,Masters,Yes,75.1
+6.53,83.2,69.2,5.3,No,Masters,Yes,75.4
+4.28,76.4,58.7,7.14,Yes,High School,Yes,67.3
+3.1,99.2,82.1,7.73,No,Masters,Yes,76.9
+3.04,91.4,44.3,5.63,No,Bachelors,Yes,59.0
+3.52,92.5,73.6,5.98,Yes,Masters,Yes,69.5
+2.24,96.6,60.4,6.21,No,Masters,Yes,60.6
+3.41,90.8,48.1,3.66,Yes,Masters,Yes,61.6
+4.31,67.0,61.3,7.66,No,Masters,Yes,58.5
+5.0,77.5,58.7,6.75,No,Masters,Yes,65.0
+3.82,94.2,76.2,6.69,No,Bachelors,Yes,67.3
+0.65,73.0,41.5,6.92,No,High School,Yes,44.1
+4.36,82.6,61.0,7.14,Yes,High School,Yes,69.7
+4.95,86.9,57.1,9.83,No,Masters,Yes,72.4
+6.67,99.5,87.5,7.05,No,Masters,No,88.1
+5.66,97.8,47.2,7.9,Yes,High School,No,66.5
+3.21,93.0,79.8,6.13,Yes,High School,Yes,69.8
+3.05,79.9,37.6,7.27,No,Masters,Yes,52.0
+8.52,93.1,69.1,6.4,Yes,High School,Yes,81.7
+6.01,88.5,61.9,6.62,No,Bachelors,Yes,65.8
+8.16,80.2,69.5,5.63,No,Masters,Yes,82.3
+8.76,98.5,53.3,5.75,Yes,Bachelors,No,67.6
+2.86,88.1,34.6,7.41,No,Masters,Yes,50.4
+5.27,73.1,40.7,7.79,Yes,Bachelors,Yes,57.1
+5.42,97.4,83.5,7.42,Yes,PhD,Yes,76.4
+5.62,79.1,67.0,5.94,No,Bachelors,No,64.5
+5.58,89.3,50.8,7.23,Yes,Bachelors,Yes,65.5
+4.9,63.9,77.3,3.51,Yes,High School,Yes,60.6
+4.85,81.9,52.6,8.05,Yes,Masters,Yes,72.1
+1.5,70.8,52.7,6.77,Yes,High School,Yes,40.4
+4.17,70.5,45.6,7.17,No,High School,Yes,54.0
+3.0,59.2,81.4,8.34,No,Bachelors,No,60.7
+4.75,100.0,93.2,6.27,Yes,Bachelors,Yes,88.0
+3.56,80.3,49.3,8.07,Yes,PhD,Yes,65.8
+5.74,85.0,68.0,6.25,No,PhD,Yes,71.1
+6.14,95.4,78.4,7.53,No,PhD,Yes,88.0
+5.12,80.7,95.4,6.29,Yes,Masters,Yes,85.8
+5.13,88.3,27.7,7.22,No,Bachelors,Yes,70.5
+4.69,65.8,65.8,8.72,No,Masters,Yes,78.5
+3.6,84.5,73.3,5.98,No,High School,Yes,64.2
+4.17,77.1,41.4,6.03,No,High School,Yes,61.6
+3.51,88.1,69.7,6.4,Yes,PhD,Yes,73.0
+5.28,84.3,66.6,7.22,No,Bachelors,Yes,65.6
+4.53,65.5,74.5,10.0,Yes,PhD,Yes,77.3
+5.66,59.9,54.9,6.08,No,High School,Yes,64.7
+1.84,69.9,69.9,4.17,No,Bachelors,Yes,43.5
+6.28,91.0,54.5,5.98,No,High School,Yes,74.9
+2.97,87.2,72.7,4.77,Yes,Masters,Yes,64.1
+3.03,86.9,66.0,6.1,No,PhD,Yes,75.5
+4.11,57.9,57.9,6.86,Yes,Bachelors,Yes,59.9
+3.37,49.8,42.3,5.59,No,High School,Yes,45.4
+5.08,74.6,88.3,5.95,No,High School,Yes,78.3
+3.35,78.1,80.2,4.4,Yes,High School,Yes,63.1
+2.36,74.8,76.8,7.07,No,Bachelors,No,69.4
+2.81,86.3,53.6,5.86,Yes,Masters,No,52.9
+7.12,80.0,58.3,8.25,No,PhD,Yes,72.8
+4.59,67.8,88.6,8.21,Yes,High School,No,61.4
+2.16,71.5,74.7,5.71,Yes,High School,Yes,62.3
+4.52,83.8,50.8,6.36,No,High School,No,55.3
+1.39,82.9,64.3,6.91,No,High School,Yes,61.3
+8.08,81.2,65.7,7.83,Yes,High School,Yes,82.7
+1.45,100.0,60.6,4.66,No,High School,Yes,62.6
+5.46,78.9,49.4,6.75,Yes,Masters,Yes,72.7
+5.59,83.5,82.4,9.27,No,High School,Yes,82.2
+1.6,70.1,72.5,6.73,No,High School,Yes,56.1
+5.1,77.7,60.7,7.14,Yes,High School,Yes,62.1
+6.49,88.3,40.0,6.85,Yes,Masters,Yes,64.6
+5.44,88.8,54.9,5.29,Yes,Bachelors,Yes,71.9
+5.02,80.1,63.6,8.09,Yes,Bachelors,Yes,67.6
+6.4,86.8,76.7,7.2,No,Masters,No,69.5
+4.82,82.7,58.1,7.06,No,Bachelors,No,56.8
+5.17,59.4,80.3,7.8,No,Bachelors,Yes,67.3
+4.25,42.7,65.8,7.88,No,Bachelors,Yes,58.0
+5.76,100.0,52.6,4.38,No,High School,Yes,65.4
+2.62,92.0,21.8,7.48,Yes,Bachelors,No,43.0
+6.08,81.3,46.1,6.09,Yes,Bachelors,Yes,68.4
+3.49,61.1,41.4,7.06,Yes,High School,Yes,39.3
+2.32,66.7,61.5,5.93,Yes,Bachelors,Yes,54.7
+5.23,98.3,68.8,5.73,Yes,Bachelors,Yes,80.2
+7.89,48.5,84.7,8.1,No,High School,No,68.4
+6.42,78.1,63.6,6.85,Yes,Bachelors,Yes,78.0
+3.47,92.4,46.4,6.49,Yes,Bachelors,No,57.9
+5.9,83.7,99.1,6.49,No,Masters,Yes,86.5
+3.59,91.1,68.5,6.97,No,Masters,Yes,70.6
+4.25,80.4,59.9,6.84,Yes,Bachelors,Yes,63.5
+4.68,100.0,59.9,3.78,No,High School,Yes,67.3
+0.0,69.7,43.6,5.73,Yes,High School,No,43.1
+4.88,65.7,73.4,6.56,Yes,Bachelors,No,52.1
+2.44,85.3,69.5,7.84,Yes,High School,Yes,60.3
+3.11,99.2,87.7,8.65,No,Bachelors,No,61.5
+1.55,81.3,80.4,5.66,Yes,High School,Yes,57.3
+1.47,94.6,77.0,9.4,No,Masters,Yes,64.5
+2.61,75.6,82.8,7.0,No,High School,Yes,61.5
+6.15,67.8,59.7,7.52,Yes,Bachelors,No,61.1
+7.83,98.8,57.3,6.19,No,High School,Yes,79.8
+4.45,100.0,63.2,6.1,No,High School,Yes,74.5
+6.68,100.0,45.3,8.76,No,Bachelors,Yes,69.1
+3.97,76.7,61.9,6.61,Yes,Bachelors,Yes,61.5
+0.68,68.1,59.1,6.76,Yes,Masters,Yes,57.6
+4.8,68.0,74.1,8.4,No,High School,Yes,62.8
+5.39,79.3,63.8,9.14,No,Masters,Yes,70.3
+3.64,89.0,35.4,4.95,No,High School,Yes,43.4
+5.1,88.1,64.5,6.65,Yes,Bachelors,Yes,74.8
+5.65,64.8,85.3,6.89,No,PhD,Yes,75.7
+2.77,84.3,36.6,9.27,No,Bachelors,Yes,51.5
+1.55,82.2,52.7,10.0,No,High School,Yes,49.8
+4.06,83.1,64.4,6.84,No,Bachelors,Yes,60.2
+4.08,81.7,44.3,7.4,No,Masters,No,58.7
+3.79,79.6,55.9,8.04,No,Masters,Yes,62.1
+6.47,89.1,65.0,8.41,No,High School,No,62.3
+7.95,83.5,44.4,6.5,No,Bachelors,No,62.4
+3.67,84.7,68.6,8.03,No,Bachelors,Yes,72.1
+5.9,73.7,70.4,6.01,Yes,High School,No,69.7
+6.38,86.7,45.2,3.44,Yes,Bachelors,Yes,71.2
+5.93,80.5,64.6,5.13,No,High School,Yes,66.7
+6.59,56.6,80.5,7.21,Yes,Masters,Yes,75.3
+3.72,87.8,61.6,7.95,Yes,High School,Yes,67.5
+5.98,78.8,70.8,3.99,No,Bachelors,No,66.9
+8.55,93.1,73.9,4.58,No,High School,No,76.8
+6.11,80.1,60.8,6.89,No,Bachelors,Yes,64.2
+3.26,80.9,79.1,3.0,Yes,Bachelors,No,56.3
+5.72,84.5,70.1,7.67,Yes,PhD,Yes,75.8
+7.02,81.9,49.5,8.29,No,Bachelors,Yes,73.6
+5.24,76.6,72.2,3.06,No,Bachelors,Yes,62.8
+3.37,60.5,77.4,7.95,Yes,High School,No,53.6
+7.59,100.0,76.5,6.7,Yes,Bachelors,Yes,90.1
+2.0,63.1,54.8,8.8,No,PhD,Yes,64.3
+5.51,77.9,71.3,7.32,No,Bachelors,Yes,66.2
+4.47,89.8,85.0,6.65,No,PhD,Yes,77.4
+2.11,86.6,67.9,7.12,No,High School,Yes,67.0
+6.94,88.8,82.2,8.19,No,Bachelors,No,75.0
+5.2,91.2,84.0,7.21,Yes,Masters,No,80.9
+2.17,97.2,64.0,7.02,No,Masters,Yes,59.6
+5.7,85.6,74.4,5.09,No,High School,Yes,68.9
+3.64,100.0,60.2,7.6,Yes,Bachelors,No,68.8
+0.69,69.8,80.6,7.01,No,Masters,Yes,68.5
+3.12,84.7,63.2,9.37,No,Bachelors,Yes,71.1
+5.03,77.7,56.3,6.96,No,High School,Yes,54.1
+5.77,75.5,64.2,6.86,No,Bachelors,Yes,60.2
+4.83,85.4,63.5,6.16,Yes,Bachelors,Yes,64.5
+4.59,99.5,70.3,7.92,No,High School,Yes,77.1
+5.44,73.5,71.6,6.72,Yes,Bachelors,Yes,74.1
+4.08,73.5,47.2,6.06,No,Bachelors,Yes,62.3
+6.85,90.7,54.9,9.07,No,PhD,Yes,81.1
+4.8,88.5,70.0,9.31,No,Bachelors,Yes,70.8
+5.09,100.0,71.9,6.4,No,Bachelors,Yes,73.2
+5.58,94.3,66.0,5.65,No,High School,No,60.5
+2.39,84.8,100.0,8.46,No,High School,No,72.3
+3.08,78.0,81.5,5.9,No,Bachelors,Yes,59.8
+7.56,84.6,63.6,10.0,No,Bachelors,Yes,78.8
+5.17,79.9,75.7,6.81,Yes,High School,Yes,72.1
+3.93,65.6,84.8,8.25,Yes,Bachelors,Yes,76.4
+5.18,82.1,70.3,5.3,No,High School,Yes,62.7
+3.54,79.9,38.6,6.95,Yes,High School,Yes,56.9
+5.06,79.2,66.3,8.42,No,Bachelors,Yes,64.5
+3.17,76.8,65.6,7.57,No,High School,Yes,66.1
+5.05,100.0,96.9,6.29,No,Bachelors,No,76.0
+1.34,90.4,37.3,10.0,Yes,Masters,Yes,57.5
+7.16,93.2,88.1,7.96,No,High School,Yes,78.6
+3.47,74.7,62.6,6.7,No,Bachelors,Yes,58.1
+1.34,69.7,78.9,6.21,No,PhD,Yes,58.6
+4.05,78.6,60.6,6.65,No,Masters,Yes,61.9
+3.76,84.9,67.6,8.76,No,Bachelors,Yes,74.5
+4.8,77.9,82.0,5.99,Yes,Bachelors,Yes,67.4
+2.21,79.7,66.3,7.04,Yes,High School,Yes,61.6
+5.29,93.5,80.9,5.93,No,Masters,No,77.4
+11.75,85.6,63.9,8.64,No,Masters,Yes,84.5
+1.94,70.2,58.9,6.79,Yes,High School,Yes,43.4
+5.18,76.9,61.8,8.13,Yes,Bachelors,Yes,71.4
+3.88,74.1,57.6,7.74,No,Bachelors,Yes,53.2
+4.89,84.2,63.3,6.24,No,Bachelors,Yes,63.3
+0.88,68.0,85.6,7.92,No,Bachelors,No,55.7
+2.2,79.9,47.6,8.23,No,Masters,Yes,59.6
+5.42,90.3,40.2,5.5,Yes,Masters,Yes,64.3
+4.42,82.3,64.9,7.92,No,Bachelors,Yes,64.3
+7.77,71.0,90.4,10.0,Yes,High School,Yes,88.4
+3.09,74.6,80.9,6.61,Yes,Masters,Yes,70.5
+4.85,83.5,85.0,7.84,Yes,High School,Yes,84.9
+10.33,87.8,84.0,5.26,No,Bachelors,No,78.3
+2.97,92.0,54.3,7.6,Yes,Masters,Yes,66.1
+2.69,80.3,67.0,6.23,Yes,Masters,Yes,64.9
+4.43,66.2,25.3,8.01,No,Bachelors,Yes,53.5
+4.41,99.1,56.1,6.94,Yes,Bachelors,Yes,71.3
+6.19,85.6,74.4,5.46,Yes,PhD,Yes,78.3
+4.76,86.9,41.9,8.44,No,Masters,Yes,75.2
+2.99,85.7,34.4,6.72,Yes,High School,Yes,52.7
+4.92,69.6,45.8,5.67,No,PhD,Yes,62.3
+9.78,78.2,68.6,7.09,No,Bachelors,Yes,81.9
+7.04,85.1,82.9,5.74,No,High School,Yes,73.7
+0.0,94.4,100.0,7.52,Yes,High School,Yes,73.8
+4.22,82.7,86.9,6.92,No,Bachelors,No,58.9
+2.75,44.6,42.7,6.52,No,Bachelors,Yes,50.1
+5.74,79.1,30.7,7.88,Yes,Masters,No,50.0
+4.15,86.2,67.7,5.33,Yes,Bachelors,No,61.2
+8.37,97.5,81.4,8.28,No,Masters,Yes,90.6
+6.36,90.5,41.3,4.37,No,High School,Yes,59.3
+6.28,100.0,57.7,9.11,Yes,Bachelors,No,70.5
+4.87,99.1,58.9,7.24,Yes,High School,Yes,76.6
+4.42,98.2,66.1,6.66,No,Bachelors,No,78.5
+5.18,93.3,63.0,6.04,Yes,Bachelors,No,72.0
+7.09,65.4,73.5,7.72,Yes,High School,Yes,72.9
+5.57,92.2,81.6,6.79,No,Bachelors,Yes,74.5
+3.8,89.2,66.8,6.77,No,Masters,Yes,65.6
+7.05,75.7,77.1,8.36,Yes,High School,Yes,82.9
+4.88,89.0,95.7,6.43,No,Bachelors,Yes,83.7
+4.34,87.0,50.5,6.69,Yes,Masters,Yes,73.2
+2.92,76.4,50.2,7.57,No,Bachelors,Yes,62.3
+3.37,80.5,73.5,8.41,Yes,Masters,Yes,78.2
+3.23,78.8,93.7,6.81,Yes,High School,Yes,68.2
+0.0,84.8,68.5,7.21,No,Bachelors,No,48.4
+6.53,76.9,82.4,7.06,Yes,High School,Yes,70.9
+5.63,88.5,61.4,7.98,Yes,High School,Yes,71.1
+4.07,59.0,79.8,8.96,No,Masters,Yes,67.4
+6.59,78.6,56.7,5.78,Yes,High School,Yes,67.5
+5.38,61.8,76.2,6.83,Yes,Masters,Yes,64.4
+5.24,76.2,72.0,6.94,Yes,Masters,Yes,73.9
+0.0,88.2,72.1,7.78,Yes,Masters,Yes,67.7
+4.03,82.3,86.8,8.97,No,High School,Yes,73.4
+5.56,80.7,82.2,6.98,No,Masters,Yes,63.2
+7.72,82.8,57.3,7.28,No,High School,Yes,71.3
+8.18,100.0,79.5,8.49,No,Bachelors,Yes,86.1
+7.35,68.7,40.8,5.37,No,High School,No,58.8
+2.18,92.7,81.2,5.99,Yes,Masters,Yes,70.7
+0.1,63.8,100.0,6.41,No,High School,Yes,62.2
+5.64,76.4,74.4,6.99,Yes,Masters,No,67.9
+4.56,84.0,74.1,7.3,Yes,Bachelors,Yes,74.1
+6.43,71.8,67.4,6.32,No,High School,Yes,72.1
+4.25,84.5,79.0,9.31,Yes,Bachelors,Yes,74.2
+4.94,90.7,59.8,6.07,No,Masters,Yes,71.5
+1.5,67.7,76.7,6.73,No,Masters,No,56.4
+5.4,81.1,62.6,8.43,No,PhD,No,70.9
+3.61,77.5,60.3,8.02,Yes,High School,Yes,61.9
+5.2,58.7,68.6,6.98,Yes,Bachelors,Yes,67.3
+5.42,79.8,65.9,7.49,Yes,Bachelors,Yes,61.8
+4.27,72.4,40.7,8.07,Yes,Bachelors,Yes,57.4
+5.13,98.1,98.0,6.98,No,High School,No,80.8
+4.47,71.5,68.9,7.85,No,Bachelors,Yes,69.5
+6.02,100.0,41.4,5.79,No,High School,Yes,60.2
+5.5,75.6,83.0,7.09,Yes,High School,Yes,69.1
+3.41,100.0,66.4,4.83,No,Masters,No,66.2
+3.32,88.5,69.9,5.81,No,Bachelors,No,62.8
+7.99,87.4,77.5,5.48,Yes,Masters,No,80.7
+4.3,91.7,53.4,8.63,Yes,Bachelors,Yes,69.1
+6.48,92.8,22.7,6.38,Yes,Masters,Yes,65.0
+5.29,98.8,65.4,7.38,Yes,Bachelors,Yes,81.0
+3.37,100.0,70.5,5.76,Yes,High School,Yes,64.3
+3.0,77.8,81.9,6.71,Yes,PhD,Yes,64.6
+4.74,67.0,55.5,6.61,No,High School,Yes,63.0
+5.01,49.9,62.9,5.85,No,Masters,Yes,55.5
+5.73,77.4,72.9,8.11,Yes,High School,Yes,75.6
+1.97,91.1,62.1,4.78,No,Bachelors,Yes,56.2
+3.31,86.5,63.1,7.8,No,High School,No,52.9
+4.31,83.4,70.7,10.0,No,Bachelors,Yes,79.8
+7.7,77.8,51.9,5.89,Yes,High School,Yes,67.9
+0.0,74.3,90.6,7.01,Yes,High School,No,48.7
+5.38,78.6,53.0,4.91,No,Bachelors,Yes,61.1
+3.42,86.7,67.4,6.93,No,Masters,Yes,67.3
+5.36,60.8,61.9,4.67,Yes,Bachelors,No,55.2
+3.52,90.7,56.2,7.78,No,High School,Yes,63.7
+5.23,64.5,74.9,6.3,Yes,PhD,Yes,65.0
+7.63,80.1,82.0,4.51,No,High School,Yes,73.8
+5.21,74.4,88.7,5.23,No,High School,Yes,72.5
+5.37,77.6,75.6,4.84,Yes,Bachelors,Yes,73.5
+5.25,69.4,60.1,6.56,Yes,High School,Yes,63.2
+3.0,68.1,79.8,8.06,No,Bachelors,No,56.0
+5.59,79.2,45.2,6.4,No,Bachelors,Yes,52.0
+4.08,68.9,67.6,5.36,No,Masters,Yes,70.5
+2.88,100.0,74.6,5.81,No,High School,Yes,61.9
+4.42,76.9,75.3,7.07,No,Masters,Yes,68.4
+4.05,74.1,49.5,3.69,No,Masters,Yes,57.0
+6.01,75.3,44.3,7.68,Yes,High School,No,59.8
+4.41,69.1,91.6,7.43,No,High School,Yes,70.0
+3.44,52.4,59.0,3.64,No,Masters,Yes,48.2
+7.41,78.8,42.0,8.45,No,Bachelors,Yes,67.6
+6.48,85.6,48.1,4.72,Yes,Bachelors,No,72.0
+7.04,63.9,66.8,6.6,No,Bachelors,Yes,81.1
+5.72,82.0,84.3,8.44,No,Bachelors,No,71.7
+4.28,67.4,66.5,4.7,No,Masters,Yes,65.5
+3.66,81.5,84.6,4.42,Yes,Bachelors,Yes,60.8
+3.94,86.2,69.9,5.38,Yes,Masters,Yes,71.0
+6.4,87.7,73.6,5.43,No,Bachelors,Yes,78.1
+4.72,87.1,81.2,6.68,Yes,Bachelors,Yes,73.8
+1.53,73.5,60.8,6.16,No,Masters,Yes,65.7
+4.42,92.5,70.9,6.2,Yes,Masters,Yes,78.6
+1.67,76.5,60.6,6.22,Yes,Bachelors,Yes,60.4
+4.83,86.1,56.8,6.61,Yes,Bachelors,Yes,54.3
+2.09,90.4,76.2,5.72,Yes,High School,Yes,61.6
+1.97,78.3,54.0,7.29,No,Bachelors,Yes,59.7
+4.74,66.5,67.5,6.85,No,High School,Yes,59.4
+4.34,89.3,54.4,5.5,Yes,Bachelors,No,51.2
+1.18,68.5,64.9,9.27,Yes,High School,Yes,53.6
+6.0,71.2,58.3,5.16,No,High School,Yes,69.3
+8.83,68.7,82.6,7.83,No,High School,No,77.5
+1.54,92.0,67.4,5.86,No,Bachelors,Yes,65.9
+8.14,79.9,67.3,7.33,No,Bachelors,Yes,78.0
+3.12,54.9,90.9,7.55,Yes,High School,Yes,72.3
+3.51,90.7,22.7,8.0,Yes,Bachelors,No,36.9
+4.14,100.0,49.3,8.75,Yes,Masters,No,60.5
+1.61,100.0,24.9,5.75,Yes,High School,Yes,59.4
+7.1,75.1,65.8,10.0,Yes,High School,Yes,80.2
+5.49,82.8,72.5,7.41,Yes,High School,Yes,73.3
+3.0,88.0,75.5,5.79,Yes,Bachelors,No,61.6
+3.95,92.6,69.8,5.07,Yes,Bachelors,No,55.4
+1.47,82.3,52.7,9.99,Yes,High School,No,50.9
+3.8,68.7,92.0,9.06,Yes,High School,Yes,71.2
+6.37,90.9,70.3,6.86,No,Bachelors,No,66.3
+1.07,89.3,61.8,7.9,No,High School,Yes,65.0
+3.63,65.9,48.8,8.64,Yes,Masters,Yes,65.5
+4.79,77.5,71.9,7.02,No,High School,Yes,65.3
+6.6,85.1,58.2,6.33,Yes,Masters,Yes,78.5
+7.2,81.8,58.8,6.85,No,High School,Yes,69.6
+3.59,88.2,68.7,8.01,No,High School,Yes,68.0
+3.02,91.4,68.8,6.93,No,PhD,Yes,67.5
+5.4,88.4,53.2,5.26,Yes,High School,Yes,77.4
+3.77,80.5,84.3,7.9,No,High School,Yes,62.4
+3.88,65.7,50.4,4.61,Yes,Masters,Yes,56.3
+6.66,89.3,48.7,5.9,No,Masters,Yes,75.4
+7.88,98.7,70.1,8.55,No,Bachelors,Yes,89.0
+5.03,100.0,67.3,7.22,Yes,High School,Yes,65.8
+4.12,81.5,66.5,7.21,No,High School,Yes,59.8
+5.64,81.4,59.2,7.04,Yes,Bachelors,Yes,69.1
+0.72,99.2,66.0,8.27,No,PhD,Yes,62.7
+4.46,99.1,56.9,6.83,No,High School,Yes,63.6
+2.38,85.9,40.6,4.31,Yes,Bachelors,No,47.1
+9.28,90.4,76.4,7.22,No,Masters,Yes,86.9
+5.94,72.7,50.1,3.0,No,Masters,Yes,66.6
+4.78,88.9,61.9,4.17,Yes,Bachelors,No,53.5
+4.11,71.9,76.3,9.0,No,Bachelors,No,69.3
+0.0,80.1,65.7,8.28,Yes,Bachelors,No,51.8
+5.93,80.4,100.0,6.28,Yes,Bachelors,Yes,85.1
+7.76,76.2,44.3,6.8,No,Bachelors,Yes,65.3
+3.04,56.5,54.1,7.01,Yes,Bachelors,Yes,65.9
+5.87,71.9,66.6,8.23,No,High School,Yes,58.6
+5.95,85.8,85.6,5.87,Yes,Masters,Yes,86.7
+1.4,81.1,61.5,5.72,Yes,Bachelors,No,50.5
+6.37,77.1,43.8,6.06,No,Bachelors,Yes,61.6
+7.21,87.0,82.4,7.08,No,High School,Yes,86.3
+4.96,90.1,51.4,7.24,Yes,Bachelors,Yes,66.9
+4.37,92.0,62.2,6.37,No,PhD,Yes,75.5
+6.08,72.1,78.4,7.9,No,High School,Yes,79.0
+1.42,82.1,55.2,5.53,Yes,Bachelors,Yes,52.8
+4.69,77.8,58.4,6.79,Yes,High School,Yes,73.7
+6.61,71.3,72.5,5.97,Yes,PhD,Yes,81.7
+2.02,63.8,62.1,5.55,No,Masters,Yes,53.9
+6.49,80.6,69.5,8.52,No,Masters,Yes,78.1
+3.66,71.3,51.0,6.47,Yes,Masters,Yes,56.8
+0.34,100.0,63.4,5.55,No,High School,Yes,58.7
+4.29,80.6,48.8,6.95,Yes,Bachelors,No,61.8
+2.56,79.1,41.8,5.56,No,PhD,Yes,60.3
+5.14,77.0,91.5,7.69,No,Bachelors,Yes,77.7
+2.16,100.0,71.9,8.02,No,PhD,Yes,69.8
+6.6,70.5,78.9,8.26,No,Masters,Yes,73.9
+3.02,79.9,50.6,5.49,Yes,Bachelors,Yes,53.1
+5.21,72.6,64.7,6.7,No,Bachelors,Yes,64.5
+3.31,80.3,62.0,9.35,Yes,Bachelors,Yes,69.7
+3.85,81.4,43.8,6.61,No,High School,Yes,53.1
+6.88,95.0,73.3,8.58,Yes,High School,Yes,77.4
+4.93,64.8,54.2,8.92,No,Bachelors,Yes,56.8
+3.71,81.5,62.0,5.06,No,Bachelors,No,59.7
+2.0,100.0,42.3,8.51,No,Masters,Yes,60.7
+6.82,75.7,80.0,7.9,No,Bachelors,Yes,69.0
+5.97,79.7,76.5,8.06,No,Bachelors,Yes,80.7
+3.85,71.2,71.0,9.14,Yes,Masters,Yes,75.5
+4.99,50.4,51.4,7.51,No,Masters,No,52.8
+2.44,80.5,57.0,7.0,No,PhD,Yes,60.0
+2.47,95.9,83.4,7.71,No,Masters,Yes,74.2
+2.85,76.2,60.9,6.44,Yes,Bachelors,Yes,56.1
+5.21,59.6,69.1,7.56,No,Masters,Yes,71.6
+5.09,85.0,67.2,4.22,Yes,High School,Yes,73.6
+3.01,82.7,48.3,9.2,No,Masters,No,62.7
+5.98,93.8,87.9,6.19,No,High School,Yes,79.9
+6.07,92.7,35.3,7.62,Yes,Masters,Yes,70.0
+4.85,78.6,68.4,7.31,No,Masters,Yes,73.2
+6.58,86.6,63.7,7.04,No,Bachelors,Yes,82.0
+3.93,60.2,40.8,7.05,No,PhD,Yes,50.8
+4.27,95.2,70.0,6.98,Yes,High School,Yes,71.2
+5.45,84.0,72.9,4.72,No,High School,Yes,64.7
+4.43,94.8,65.8,6.17,No,Bachelors,Yes,63.8
+6.09,94.5,52.6,8.48,Yes,High School,Yes,73.6
+1.99,78.3,71.8,5.54,No,High School,Yes,63.8
+7.35,80.0,81.8,5.49,Yes,PhD,Yes,76.9
+2.94,71.3,68.4,9.71,No,Bachelors,Yes,69.1
+4.17,57.0,90.9,8.5,Yes,Masters,Yes,76.1
+1.74,80.2,78.0,8.97,Yes,High School,Yes,67.6
+5.7,83.6,76.6,6.88,Yes,Bachelors,No,77.6
+7.05,68.8,85.9,7.25,Yes,High School,Yes,73.2
+6.64,90.3,55.1,7.91,No,Bachelors,Yes,80.9
+6.17,83.0,57.3,7.64,No,Masters,Yes,70.1
+1.39,87.2,72.8,6.78,Yes,Bachelors,Yes,66.9
+2.94,72.6,72.9,4.95,Yes,Bachelors,Yes,54.4
+3.57,60.6,87.7,5.92,Yes,Masters,Yes,73.2
+2.63,91.1,82.3,4.89,Yes,High School,Yes,67.6
+6.75,89.1,67.7,8.98,No,Bachelors,Yes,75.2
+4.87,80.5,68.4,6.35,No,High School,No,55.8
+4.45,76.7,61.0,6.64,No,High School,Yes,62.8
+5.48,78.5,59.7,7.26,Yes,Bachelors,No,70.4
+2.6,80.2,58.4,6.9,Yes,Masters,No,60.5
+2.68,75.7,78.7,7.58,Yes,High School,Yes,63.4
+2.74,57.7,58.1,6.05,No,Masters,Yes,50.6
+5.5,91.2,59.9,4.85,Yes,Bachelors,Yes,64.5
+5.18,63.9,67.6,9.19,Yes,Bachelors,Yes,66.9
+5.66,77.8,57.5,5.92,No,High School,Yes,55.3
+6.66,78.1,61.8,6.24,No,High School,Yes,65.9
+1.79,84.9,32.5,5.81,Yes,Bachelors,No,51.1
+3.38,62.4,70.9,6.14,No,Masters,No,56.3
+4.8,96.3,60.8,6.89,No,High School,Yes,67.6
+1.8,89.7,68.2,7.85,No,Bachelors,No,56.2
+3.44,91.1,70.9,5.46,Yes,Masters,Yes,74.1
+6.53,97.0,37.6,7.24,No,Masters,Yes,73.2
+6.71,72.3,100.0,5.96,Yes,PhD,Yes,91.7
+6.65,44.2,68.0,8.44,Yes,High School,Yes,60.6
+4.59,85.8,68.4,5.22,No,Bachelors,Yes,61.9
+4.08,97.6,39.1,6.98,Yes,High School,Yes,58.5
+6.66,95.8,75.4,7.79,No,High School,No,67.5
+3.75,75.5,72.4,5.05,No,Bachelors,Yes,63.2
+5.18,80.8,60.9,6.99,No,PhD,Yes,68.0
+7.15,85.3,70.2,7.04,No,High School,Yes,70.2
+3.76,60.2,85.8,5.79,No,High School,Yes,62.1
+3.28,73.9,61.7,6.56,Yes,PhD,Yes,69.5
+4.48,74.3,53.3,8.15,Yes,Bachelors,Yes,67.4
+5.7,100.0,86.9,7.16,Yes,High School,Yes,78.7
+5.46,74.1,71.0,6.29,Yes,High School,Yes,68.1
+4.81,100.0,64.4,6.56,No,High School,No,66.7
+5.61,82.1,100.0,7.43,No,High School,Yes,82.9
+1.3,61.8,69.6,8.51,No,Masters,Yes,56.4
+2.78,100.0,64.6,7.88,Yes,Masters,Yes,65.5
+4.83,70.3,71.2,7.8,No,High School,Yes,67.1
+2.64,89.4,61.2,8.89,No,Bachelors,No,55.2
+1.82,100.0,70.4,4.8,Yes,Bachelors,Yes,64.0
+2.08,75.6,69.4,4.94,No,Masters,No,53.7
+2.66,67.2,57.3,3.84,No,PhD,Yes,59.7
+4.14,94.5,63.3,7.92,No,High School,Yes,65.6
+2.45,82.8,71.8,3.82,No,High School,Yes,59.4
+4.97,67.3,72.8,6.77,Yes,Bachelors,Yes,66.7
+7.89,69.0,75.8,7.81,No,High School,Yes,71.8
+4.2,77.3,78.8,4.99,No,Bachelors,Yes,71.5
+7.05,93.6,70.8,5.95,No,Bachelors,Yes,75.2
+5.08,78.6,74.8,6.47,Yes,Bachelors,No,68.9
+2.26,89.9,61.3,7.78,No,High School,Yes,62.4
+3.99,100.0,63.1,4.83,No,High School,Yes,56.4
+2.54,97.2,82.5,7.23,No,Bachelors,Yes,63.7
+6.04,99.3,37.3,7.73,Yes,High School,Yes,51.5
+2.19,96.8,72.4,7.0,No,PhD,Yes,72.0
+7.15,62.7,100.0,7.02,Yes,High School,Yes,80.5
+5.66,96.7,39.0,8.45,Yes,Masters,Yes,68.2
+0.46,85.9,89.2,7.1,Yes,High School,No,57.3
+6.07,80.5,40.3,6.78,Yes,Bachelors,No,57.4
+7.61,69.0,72.0,6.37,Yes,Masters,No,68.3
+2.92,62.9,90.8,7.66,No,Bachelors,Yes,66.3
+6.47,68.7,88.7,6.43,Yes,High School,Yes,74.6
+0.9,81.7,52.7,7.66,Yes,High School,Yes,49.4
+5.0,67.9,46.7,6.94,Yes,Bachelors,No,62.0
+1.18,72.2,44.6,8.29,No,Bachelors,Yes,55.5
+5.46,74.6,76.8,5.77,Yes,PhD,Yes,72.3
+0.92,90.0,60.2,6.91,No,High School,Yes,67.1
+0.0,78.5,66.1,7.26,Yes,Bachelors,Yes,68.7
+5.29,80.2,69.8,7.35,No,Bachelors,Yes,76.7
+9.08,97.9,72.0,8.29,Yes,High School,No,87.5
+3.31,78.1,73.9,7.32,Yes,Masters,Yes,66.6
+6.16,89.2,67.7,7.99,Yes,High School,Yes,73.2
+4.72,69.3,41.7,9.37,Yes,Masters,Yes,54.8
+3.85,85.9,87.6,7.91,No,Masters,Yes,74.6
+5.73,83.4,24.5,5.43,Yes,High School,Yes,60.3
+7.78,84.1,84.3,4.94,No,Masters,Yes,80.0
+2.03,76.4,56.7,7.68,Yes,Masters,Yes,52.2
+5.63,69.6,62.7,6.31,No,Masters,Yes,75.0
+5.19,78.4,57.8,7.19,No,Bachelors,Yes,75.5
+1.65,76.4,60.1,6.58,Yes,Bachelors,Yes,65.1
+7.73,94.4,65.3,8.51,Yes,High School,Yes,72.5
+8.4,92.9,61.4,8.37,Yes,Bachelors,No,81.2
+2.59,67.6,49.1,5.33,Yes,High School,Yes,46.5
+7.98,89.5,78.3,7.16,No,Bachelors,Yes,81.9
+4.61,76.2,56.9,6.41,No,Bachelors,Yes,66.0
+4.17,87.5,85.7,5.1,Yes,High School,No,74.4
+7.51,76.2,63.3,7.65,No,High School,Yes,68.3
+4.95,64.3,55.0,6.62,No,High School,Yes,55.9
+5.15,94.2,72.1,7.38,No,High School,Yes,66.5
+7.54,87.4,78.9,10.0,No,High School,Yes,82.2
+7.08,67.3,51.7,8.53,No,Masters,Yes,64.2
+6.29,59.3,61.3,8.24,No,High School,Yes,61.0
+1.7,75.6,87.0,6.27,Yes,High School,Yes,67.5
+1.36,67.8,50.6,5.26,No,Masters,No,45.3
+6.75,77.6,52.8,8.43,No,PhD,Yes,72.9
+2.65,89.4,68.1,6.41,Yes,Masters,Yes,69.5
+4.8,99.6,47.3,6.86,No,Bachelors,Yes,71.0
+2.35,77.7,28.6,6.31,Yes,PhD,Yes,59.3
+4.13,98.5,40.5,6.93,No,Masters,Yes,59.0
+1.94,96.0,71.2,9.94,No,Bachelors,Yes,61.5
+7.76,76.8,75.4,6.39,No,Bachelors,Yes,79.3
+2.46,62.0,74.4,6.43,Yes,Masters,Yes,65.5
+4.26,92.2,71.4,7.07,Yes,Bachelors,Yes,79.9
+4.12,89.3,47.1,7.17,Yes,Masters,Yes,70.0
+6.91,100.0,75.7,5.24,Yes,Masters,Yes,92.0
+1.66,99.2,82.8,4.49,No,Masters,Yes,72.0
+4.43,91.4,55.1,6.04,No,Masters,Yes,64.1
+4.08,100.0,79.7,6.52,Yes,Bachelors,Yes,81.7
+5.56,69.5,60.1,5.77,No,High School,Yes,56.9
+5.44,84.4,68.4,5.49,No,PhD,Yes,69.2
+3.57,78.8,71.1,5.56,Yes,Bachelors,No,62.7
+4.98,100.0,43.3,6.27,No,PhD,Yes,67.3
+3.75,88.8,87.6,6.63,Yes,High School,Yes,78.0
+5.44,45.3,52.7,4.66,No,High School,Yes,48.9
+4.29,98.5,64.1,6.06,No,Masters,Yes,81.0
+3.19,71.2,58.2,7.24,Yes,Bachelors,No,50.1
+4.44,91.4,72.5,6.61,No,Bachelors,Yes,75.1
+5.23,76.4,72.1,5.0,Yes,Bachelors,Yes,66.6
+9.03,85.1,65.9,6.31,Yes,PhD,Yes,90.8
+3.52,89.8,86.8,6.74,No,Bachelors,Yes,70.5
+5.11,84.5,69.8,7.77,Yes,Bachelors,Yes,77.1
+7.43,70.7,59.6,4.65,No,High School,No,44.3
+0.34,98.9,22.4,7.66,No,High School,Yes,42.4
+1.01,86.9,61.4,6.16,No,Bachelors,Yes,65.6
+2.12,82.0,61.3,7.03,No,High School,Yes,58.7
+4.27,90.6,52.5,7.65,Yes,Masters,Yes,69.6
+9.38,75.8,52.7,5.63,Yes,PhD,Yes,81.6
+5.28,100.0,74.5,5.71,No,Masters,Yes,89.9
+6.92,84.9,81.3,6.61,No,High School,No,66.5
+4.06,86.6,94.0,7.7,Yes,High School,Yes,76.4
+0.0,86.4,82.8,6.05,No,Bachelors,No,54.0
+0.0,71.3,55.0,4.92,No,Masters,No,47.5
+6.54,68.1,69.5,5.85,No,High School,Yes,63.2
+4.87,84.8,45.2,7.25,No,High School,Yes,53.0
+1.9,86.4,76.6,8.26,No,Bachelors,No,54.1
+6.73,98.4,71.0,6.09,No,Masters,Yes,83.8
+1.42,87.6,56.5,6.33,Yes,Bachelors,No,54.8
+6.77,69.2,64.0,6.52,Yes,High School,Yes,72.4
+7.4,88.5,61.9,6.57,No,Bachelors,Yes,67.0
+2.97,92.2,56.1,5.52,Yes,Masters,Yes,60.5
+2.28,94.3,85.4,6.17,Yes,Bachelors,Yes,69.2
+6.19,86.2,100.0,7.02,No,High School,Yes,86.2
+2.31,67.6,78.0,6.88,No,High School,Yes,61.7
+6.22,96.2,81.5,6.77,No,Bachelors,Yes,79.8
+2.11,73.4,68.0,5.44,No,Bachelors,Yes,52.7
+6.12,89.1,60.4,6.03,No,High School,Yes,69.7
+4.69,63.4,98.6,5.82,Yes,High School,Yes,69.0
+3.63,91.4,60.1,8.1,No,Bachelors,Yes,71.7
+2.71,72.8,71.6,8.63,No,Bachelors,Yes,72.6
+4.98,95.2,63.9,7.19,No,PhD,No,70.5
+0.71,100.0,74.5,8.81,Yes,Masters,Yes,65.2
+3.95,96.3,64.9,6.36,Yes,Bachelors,Yes,82.5
+3.71,68.2,74.5,6.37,Yes,High School,Yes,66.3
+5.86,70.9,46.6,5.07,No,High School,Yes,60.3
+1.99,71.8,64.1,7.04,Yes,Masters,Yes,61.6
+7.93,90.2,86.2,6.16,Yes,Bachelors,Yes,86.6
+3.88,86.4,50.1,6.87,Yes,Bachelors,Yes,63.8
+2.22,84.1,55.6,7.38,No,High School,Yes,58.6
+7.27,85.9,86.2,6.44,Yes,PhD,Yes,78.6
+7.83,89.2,71.7,5.3,Yes,Bachelors,Yes,76.0
+4.12,90.0,81.7,6.69,No,Bachelors,Yes,73.0
+2.72,100.0,32.1,6.66,Yes,Bachelors,Yes,58.9
+4.53,81.5,67.8,6.79,Yes,Bachelors,Yes,70.3
+3.12,84.6,46.5,7.62,Yes,Masters,No,59.8
+3.88,59.9,44.7,6.48,No,High School,No,36.2
+7.62,66.3,71.8,6.41,Yes,High School,Yes,67.1
+5.28,73.8,83.4,8.99,No,Bachelors,Yes,71.7
+4.79,67.9,43.2,8.14,Yes,Masters,Yes,62.4
+5.19,84.8,49.0,6.64,No,Masters,Yes,65.3
+4.38,94.6,56.8,5.55,Yes,Bachelors,Yes,77.7
+6.18,76.9,63.7,6.19,Yes,Masters,Yes,70.4
+6.26,76.3,45.6,7.25,No,Masters,No,60.0
+3.76,76.0,99.5,7.85,No,Masters,Yes,69.8
+4.71,83.7,74.4,9.87,Yes,PhD,Yes,88.0
+9.33,75.6,60.2,6.45,Yes,Bachelors,No,72.7
+5.34,87.2,57.8,6.97,No,Masters,Yes,69.9
+4.13,85.7,100.0,6.32,No,Masters,No,71.5
+8.6,86.2,99.2,6.88,No,High School,No,83.3
+4.52,91.2,58.2,6.29,No,PhD,No,63.1
+2.31,82.4,70.7,5.4,Yes,High School,Yes,67.3
+5.85,83.8,84.5,8.1,No,Bachelors,No,69.6
+2.7,100.0,47.7,6.95,Yes,High School,Yes,59.3
+3.51,81.5,56.7,8.44,No,High School,Yes,58.7
+5.15,91.6,85.8,6.14,No,High School,Yes,78.3
+4.25,82.7,55.0,7.13,Yes,Bachelors,Yes,66.9
+2.97,76.5,59.0,7.64,No,High School,Yes,63.4
+3.4,76.5,45.2,4.38,No,Bachelors,Yes,56.3
+3.31,72.2,54.0,5.1,No,Masters,Yes,60.6
+6.83,82.1,75.7,7.76,Yes,High School,Yes,77.4
+3.06,74.7,53.0,6.93,No,High School,Yes,60.1
+3.36,76.9,45.7,4.44,Yes,PhD,Yes,60.8
+8.58,96.6,55.9,5.85,No,High School,Yes,77.4
+3.39,80.4,92.0,5.45,Yes,Bachelors,Yes,64.3
+7.48,95.7,68.0,6.18,Yes,Bachelors,Yes,78.0
+7.13,85.2,56.9,8.79,Yes,Masters,Yes,74.4
+4.19,92.3,67.6,6.07,No,Bachelors,No,55.0
+1.66,74.6,72.0,9.41,Yes,Bachelors,Yes,70.7
+5.41,83.7,67.1,6.49,Yes,High School,Yes,77.0
+5.85,100.0,38.0,5.87,No,Masters,No,68.3
+6.44,91.9,69.7,8.83,Yes,High School,Yes,80.9
+4.64,94.0,62.0,8.03,No,Masters,Yes,80.6
+6.91,84.8,77.9,8.59,No,Bachelors,Yes,71.7
+7.28,92.2,44.8,9.32,No,Bachelors,Yes,79.8
+2.39,68.0,81.0,8.19,Yes,PhD,Yes,58.5
+7.36,71.7,57.7,8.39,No,Bachelors,No,66.7
+4.85,87.1,39.4,4.62,No,Bachelors,Yes,59.3
+3.37,91.8,85.2,5.77,Yes,Masters,No,73.2
+3.86,77.0,57.3,7.4,Yes,High School,Yes,64.9
+8.26,79.7,70.8,7.1,No,Bachelors,Yes,81.8
+6.47,77.6,62.7,7.76,Yes,High School,Yes,67.1
+0.92,79.7,81.6,6.23,No,High School,Yes,56.3
+4.67,67.5,81.8,8.27,Yes,High School,Yes,65.6
+4.22,64.7,81.9,9.44,Yes,Bachelors,Yes,71.8
+4.15,80.9,75.9,7.6,Yes,High School,Yes,67.9
+3.47,61.0,40.7,7.93,No,High School,Yes,41.9
+1.59,70.1,39.6,7.5,No,Bachelors,Yes,53.5
+6.22,73.9,68.1,8.05,Yes,PhD,Yes,70.3
+2.62,69.2,50.6,7.13,No,High School,Yes,49.8
+3.76,84.7,72.1,6.21,Yes,High School,Yes,63.1
+3.3,76.5,67.5,7.11,Yes,Masters,Yes,63.2
+3.04,80.8,43.6,7.0,No,High School,Yes,57.1
+5.99,69.7,49.3,4.9,Yes,Bachelors,Yes,58.3
+5.27,72.9,47.8,7.16,No,High School,Yes,52.1
+3.15,87.9,51.6,6.9,No,High School,Yes,55.6
+2.61,86.1,61.9,7.13,No,Bachelors,Yes,57.3
+3.56,76.2,75.3,6.16,Yes,Masters,Yes,61.2
+6.43,86.1,85.2,7.48,No,High School,Yes,82.9
+4.75,84.0,50.3,7.66,No,Bachelors,Yes,70.2
+4.97,83.6,56.4,5.95,No,High School,Yes,55.7
+3.84,100.0,88.5,7.28,Yes,Masters,Yes,89.6
+3.98,76.9,78.5,7.86,No,High School,Yes,76.8
+4.93,86.7,68.5,7.82,Yes,Bachelors,Yes,66.1
+0.81,86.7,29.4,5.67,Yes,PhD,Yes,52.6
+7.72,78.8,49.7,5.54,Yes,High School,No,61.2
+2.92,67.7,67.4,6.88,No,Masters,Yes,65.8
+3.36,89.9,56.0,5.5,Yes,Bachelors,Yes,48.6
+7.18,84.8,95.1,10.0,Yes,Masters,Yes,94.4
+4.94,82.2,66.3,5.8,Yes,Masters,Yes,69.1
+4.58,81.9,69.2,5.81,Yes,Bachelors,No,66.3
+3.33,81.8,48.3,7.66,Yes,Bachelors,Yes,65.4
+1.38,70.8,49.1,6.22,No,Masters,Yes,40.1
+4.87,85.1,54.9,3.81,No,Masters,Yes,63.9
+6.89,59.9,55.5,6.63,Yes,High School,Yes,63.2
+2.7,81.2,61.4,5.54,Yes,PhD,Yes,67.0
+7.23,63.6,70.6,6.13,Yes,Bachelors,Yes,77.1
+2.25,77.3,68.5,4.72,No,High School,No,55.4
+3.03,90.1,80.1,5.63,Yes,Bachelors,Yes,66.5
+5.51,78.4,44.5,6.57,No,Bachelors,No,60.3
+4.5,75.7,68.1,6.68,No,Bachelors,Yes,62.2
+5.88,87.6,68.6,5.34,No,High School,Yes,73.5
+3.02,78.2,89.0,5.85,Yes,Bachelors,Yes,69.3
+2.44,76.5,61.6,5.67,No,PhD,Yes,59.8
+0.77,76.7,69.9,6.94,No,PhD,Yes,61.1
+2.09,99.5,52.6,6.56,Yes,High School,Yes,52.8
+2.35,89.4,71.4,5.14,No,High School,Yes,60.0
+1.65,87.1,71.0,7.57,No,Bachelors,No,52.7
+5.12,67.1,55.4,5.84,Yes,High School,Yes,64.4
+3.17,88.8,58.3,7.24,Yes,High School,Yes,69.6
+0.52,65.8,64.5,5.56,Yes,Bachelors,No,39.8
+9.47,87.1,73.7,7.12,No,Bachelors,Yes,73.1
+2.83,67.9,47.5,6.58,Yes,High School,Yes,53.5
+1.99,100.0,78.4,6.8,No,Bachelors,Yes,66.8
+6.98,61.1,59.9,7.37,Yes,Bachelors,Yes,63.3
+6.83,96.0,93.7,7.29,No,PhD,No,96.1
+2.2,90.9,87.1,6.94,No,Masters,Yes,70.6
+1.55,60.0,58.8,6.94,No,Bachelors,Yes,46.1
+2.5,78.4,55.4,5.09,Yes,Bachelors,Yes,55.9
+6.76,98.6,100.0,6.64,No,High School,Yes,87.9
+3.88,94.9,74.5,3.91,No,Bachelors,Yes,76.7
+2.88,61.4,73.6,3.85,Yes,PhD,Yes,62.5
+4.44,75.0,58.5,6.32,No,PhD,Yes,58.9
+6.91,67.2,63.0,6.44,No,PhD,Yes,68.5
+1.72,69.0,77.2,8.64,No,Masters,Yes,73.2
+3.73,73.6,74.3,7.58,No,High School,Yes,55.7
+1.73,100.0,52.4,8.15,Yes,High School,Yes,61.5

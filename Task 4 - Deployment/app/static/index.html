@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gradebook — Score Estimator</title>
+<style>
+  :root{
+    --paper:#f6f2e9;
+    --paper-2:#efe8d8;
+    --ink:#20261f;
+    --ink-soft:#4c5347;
+    --ledger:#8a3b2b;
+    --field:#3f6b4a;
+    --rule:#cdbf9e;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Iowan Old Style","Palatino Linotype",Georgia,serif;
+    line-height:1.5;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:48px 24px 80px;}
+  header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:32px;}
+  header .eyebrow{font-family:Georgia,serif;font-style:italic;color:var(--ink-soft);font-size:0.95rem;margin:0 0 4px;}
+  h1{font-size:2.1rem;margin:0;font-weight:600;letter-spacing:0.2px;}
+  .lede{color:var(--ink-soft);max-width:56ch;margin-top:10px;font-size:1.02rem;}
+
+  form{
+    background:var(--paper-2);
+    border:1px solid var(--rule);
+    border-radius:3px;
+    padding:28px 28px 8px;
+  }
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:20px 24px;}
+  @media (max-width:560px){.row{grid-template-columns:1fr;}}
+  .field{margin-bottom:20px;}
+  label{
+    display:block;font-size:0.92rem;color:var(--ink-soft);margin-bottom:6px;
+    font-family:Georgia,serif;
+  }
+  input[type=number], select{
+    width:100%;
+    padding:9px 10px;
+    border:1px solid var(--rule);
+    border-radius:2px;
+    background:#fffdf8;
+    color:var(--ink);
+    font-family:"Iowan Old Style",Georgia,serif;
+    font-size:1rem;
+  }
+  input[type=number]:focus, select:focus{
+    outline:2px solid var(--field);
+    outline-offset:1px;
+  }
+  .hint{font-size:0.8rem;color:var(--ink-soft);margin-top:4px;}
+  .actions{display:flex;align-items:center;gap:16px;margin:8px 0 24px;}
+  button{
+    background:var(--ledger);
+    color:#fbf6ec;
+    border:none;
+    padding:12px 26px;
+    font-size:1rem;
+    font-family:Georgia,serif;
+    border-radius:2px;
+    cursor:pointer;
+  }
+  button:hover{background:#732f22;}
+  button:disabled{opacity:0.55;cursor:progress;}
+  #status{font-size:0.9rem;color:var(--ink-soft);}
+
+  .result{
+    margin-top:32px;
+    border-top:2px solid var(--ink);
+    padding-top:24px;
+    display:none;
+  }
+  .result.show{display:block;}
+  .score-line{display:flex;align-items:baseline;gap:14px;}
+  .score{font-size:3.4rem;font-weight:600;color:var(--field);}
+  .score-of{color:var(--ink-soft);font-size:1.1rem;}
+  .result p{color:var(--ink-soft);max-width:56ch;}
+
+  .error{
+    margin-top:24px;
+    border-left:3px solid var(--ledger);
+    padding:12px 16px;
+    background:#fbeee9;
+    color:#5c2418;
+    display:none;
+    font-size:0.95rem;
+  }
+  .error.show{display:block;}
+
+  footer{margin-top:36px;font-size:0.82rem;color:var(--ink-soft);}
+  code{background:var(--paper-2);padding:1px 5px;border-radius:2px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Final score estimator</p>
+    <h1>Predict a student's exam score</h1>
+    <p class="lede">Enter study habits and background details below. The estimate comes from a regression model trained on historical records and served by the API running alongside this page.</p>
+  </header>
+
+  <form id="predict-form">
+    <div class="row">
+      <div class="field">
+        <label for="study_hours">Daily study hours</label>
+        <input type="number" id="study_hours" min="0" max="16" step="0.1" value="5" required>
+        <div class="hint">0–16 hours</div>
+      </div>
+      <div class="field">
+        <label for="attendance_percent">Attendance (%)</label>
+        <input type="number" id="attendance_percent" min="0" max="100" step="0.1" value="85" required>
+      </div>
+      <div class="field">
+        <label for="previous_scores">Previous exam score</label>
+        <input type="number" id="previous_scores" min="0" max="100" step="0.1" value="70" required>
+      </div>
+      <div class="field">
+        <label for="sleep_hours">Average sleep (hours/night)</label>
+        <input type="number" id="sleep_hours" min="0" max="14" step="0.1" value="7" required>
+      </div>
+      <div class="field">
+        <label for="extracurricular">Extracurricular activities</label>
+        <select id="extracurricular">
+          <option value="Yes">Yes</option>
+          <option value="No" selected>No</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="internet_access">Internet access at home</label>
+        <select id="internet_access">
+          <option value="Yes" selected>Yes</option>
+          <option value="No">No</option>
+        </select>
+      </div>
+      <div class="field" style="grid-column:1/-1">
+        <label for="parental_education">Parental education</label>
+        <select id="parental_education">
+          <option>High School</option>
+          <option selected>Bachelors</option>
+          <option>Masters</option>
+          <option>PhD</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button type="submit" id="submit-btn">Estimate score</button>
+      <span id="status"></span>
+    </div>
+  </form>
+
+  <div class="error" id="error-box"></div>
+
+  <div class="result" id="result">
+    <div class="score-line">
+      <span class="score" id="score-value">—</span>
+      <span class="score-of">/ 100</span>
+    </div>
+    <p id="result-note"></p>
+  </div>
+
+  <footer>
+    Served from <code>FastAPI</code> · model version <span id="model-version">…</span> ·
+    endpoint <code>POST /predict</code>
+  </footer>
+</div>
+
+<script>
+const API_BASE = ""; // same-origin: FastAPI serves this page and the API together
+
+fetch(`${API_BASE}/health`).then(r => r.json()).then(d => {
+  document.getElementById("model-version").textContent = `${d.model_version} (${d.model_type})`;
+}).catch(() => {
+  document.getElementById("model-version").textContent = "unavailable";
+});
+
+const form = document.getElementById("predict-form");
+const statusEl = document.getElementById("status");
+const errorBox = document.getElementById("error-box");
+const resultBox = document.getElementById("result");
+const submitBtn = document.getElementById("submit-btn");
+
+form.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  errorBox.classList.remove("show");
+  resultBox.classList.remove("show");
+  submitBtn.disabled = true;
+  statusEl.textContent = "Scoring…";
+
+  const payload = {
+    study_hours: parseFloat(document.getElementById("study_hours").value),
+    attendance_percent: parseFloat(document.getElementById("attendance_percent").value),
+    previous_scores: parseFloat(document.getElementById("previous_scores").value),
+    sleep_hours: parseFloat(document.getElementById("sleep_hours").value),
+    extracurricular: document.getElementById("extracurricular").value,
+    parental_education: document.getElementById("parental_education").value,
+    internet_access: document.getElementById("internet_access").value,
+  };
+
+  try {
+    const res = await fetch(`${API_BASE}/predict`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      throw new Error(data.detail ? JSON.stringify(data.detail) : "Prediction request failed.");
+    }
+    document.getElementById("score-value").textContent = data.predicted_final_score.toFixed(1);
+    document.getElementById("result-note").textContent =
+      "Estimate from the deployed regression model. This is a prediction, not a guarantee — actual results depend on many factors this model doesn't see.";
+    resultBox.classList.add("show");
+    statusEl.textContent = "";
+  } catch (err) {
+    errorBox.textContent = `Couldn't get a prediction: ${err.message}`;
+    errorBox.classList.add("show");
+    statusEl.textContent = "";
+  } finally {
+    submitBtn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>

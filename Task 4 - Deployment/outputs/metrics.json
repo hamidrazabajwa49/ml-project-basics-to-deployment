@@ -1,0 +1,20 @@
+{
+  "baseline": {
+    "model": "LinearRegression",
+    "MAE": 4.1857574400197635,
+    "RMSE": 5.294954411213515,
+    "R2": 0.6576784912730362
+  },
+  "optimized": {
+    "model": "RandomForest_Tuned",
+    "best_params": {
+      "max_depth": 10,
+      "min_samples_leaf": 1,
+      "n_estimators": 300
+    },
+    "MAE": 4.581075110137596,
+    "RMSE": 5.800235339791998,
+    "R2": 0.5892278726388642
+  },
+  "deployed_model": "LinearRegression"
+}
